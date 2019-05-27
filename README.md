@@ -13,3 +13,15 @@ Será analisado também quantitativamente os encaminhados para sondar aqueles qu
 <hr><br>
 
 <h1><strong> Implementação do projeto </strong></h1>
+
+listPacientes =()
+
+
+def adicionar_paciente():
+    matricula = etMatricula.get()
+    nome = etNome.get()
+    enc = etEnc.get()
+    cursor.execute("""
+        INSERT INTO paciente (matricula, nome, enc) VALUES (?, ?, ?)""", (matricula, nome, enc))
+    conn.commit()
+    listPacientes.insert(END, (matricula, nome, enc))
