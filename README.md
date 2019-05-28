@@ -6,11 +6,15 @@ com a finalidade de diminuir o estresse, lidar com os transtornos cada vez mais 
 <hr>
 <h2><strong>Escopo</strong></h2>
 
-Parar garantir o acesso dos usuários ao projeto, será feito uma integração entre os dados dos médicos que encaminham os pacientes para acompanhamento psicológico e a base de dados da Polícia Militar. Serão cruzadas informações a respeito daqueles propícios a serem acolhidos pelo programa, e encaminhados para um terapeuta atráves de um cadastro.
-
-Será analisado também quantitativamente os encaminhados para sondar aqueles que continuam com o tratamento e acompanhamento após o encaminhamento.
+Parar garantir o acesso dos usuários ao projeto o sistema fará o cadastro dos policiais militares para que os psicólogos possa acolher oferecendo terapia gratuitamente.
 
 <hr><br>
+
+
+"
+O HelPM, éum aplicativo destinado a ajudar pessoas com problemas mentais a encontrarem psicólogos e vice-versa. O aplicativo serve como um banco de dados onde o paciente se cadastra e o pscólogo o encontra deacordo com sua região.
+#O aplicativo também conta com sistema de pontuação tanto para os pacientes quanto para os psicólogos, para que ambos possam ver a #classificação do outro e se sentirem mais confortáveis com o tratamento. 
+"
 
 
 
